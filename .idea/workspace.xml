@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1806e5a6-9358-4709-abfc-aed240e4f30a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024/HW01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024/HW02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024/HW03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024/HW04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024/lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024/lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024/lab008Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024/lab009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_18042024/lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18042024/lab004.java" afterDir="false" />
-    </list>
+    <list default="true" id="1806e5a6-9358-4709-abfc-aed240e4f30a" name="Changes" comment="31-10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,6 +153,15 @@
       <option name="presentableId" value="Default" />
       <updated>1760263909404</updated>
     </task>
+    <task id="LOCAL-00001" summary="31-10">
+      <option name="closed" value="true" />
+      <created>1761884738599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761884738599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +174,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="31-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="31-10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
