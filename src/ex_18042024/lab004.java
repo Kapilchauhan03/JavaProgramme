@@ -7,6 +7,7 @@ public class lab004 {
        // System.out.println(++a + ++a); // 11 + 12
         // System.out.println(++a + ++a + a++);  // 11 + 12 + 12
         System.out.println(++a + a++ + a++);  // 11 + 11 + 12
+        //String
 
     }
 }

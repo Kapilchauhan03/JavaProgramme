@@ -1,6 +1,6 @@
 package ex_23042024;
 
-public class lab008 {
+public class lab008Ternary {
     public static void main(String[] args) {
 
         // Ternary operator
@@ -13,5 +13,8 @@ public class lab008 {
 
         int a1 = (30>40) ? 10: 20;
         System.out.println(a1);
+
+        String str = 10>20 ?"10" : "TWENTY";
+        System.out.println(str);
     }
 }
