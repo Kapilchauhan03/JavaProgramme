@@ -1,4 +1,4 @@
-package ex_23042024;
+package ex_20042024;
 
 public class lab009 {
     // find max & min using Ternary operator

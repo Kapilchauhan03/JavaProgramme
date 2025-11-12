@@ -1,4 +1,4 @@
-package ex_23042024;
+package ex_20042024;
 
 public class lab005 {
     //String class
