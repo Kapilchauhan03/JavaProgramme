@@ -4,54 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1806e5a6-9358-4709-abfc-aed240e4f30a" name="Changes" comment="31-10">
-      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/HW01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/HW02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/HW03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/HW04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/Lab030.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/Lab031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/Lab032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/HW4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/HW5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/HW6Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/HW7LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/Lab011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/Lab012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/Lab013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/Lab014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/Lab015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/Lab016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/Lab017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/Lab018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/Lab019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23042024_if_else/lab010_if_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25042024/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25042024/Lab020Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25042024/Lab021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25042024/Lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27042024/Lab023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27042024/Lab024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27042024/Lab025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27042024/Lab026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27042024/Lab027_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27042024/Lab028_Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27042024/Lab029_Do_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27042024/Swapping2numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27042024/reverse_String.java" afterDir="false" />
+    <list default="true" id="1806e5a6-9358-4709-abfc-aed240e4f30a" name="Changes" comment="12-11">
+      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/HW05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/Lab033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/Lab034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/Lab035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/Palindrome_UsingForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05052024_2DArrays_String/HW01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07052024_Functions/Calculator_Using_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07052024_Functions/Lab036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07052024_Functions/Lab037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07052024_Functions/Lab038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07052024_Functions/Lab039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07052024_Functions/Lab040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11052024_Object_Class/ATB6x.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11052024_Object_Class/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11052024_Object_Class/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11052024_Object_Class/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11052024_Object_Class/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11052024_Object_Class/runnerStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14052024_Consturctor/ATBPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14052024_Consturctor/Lab036.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23042024/HW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20042024/HW01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23042024/HW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20042024/HW02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23042024/HW03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20042024/HW03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23042024/HW04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20042024/HW04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23042024/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20042024/Lab007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23042024/lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20042024/lab005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23042024/lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20042024/lab006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23042024/lab008Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20042024/lab008Ternary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23042024/lab009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20042024/lab009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02052024_Arrays/HW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/HW02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02052024_Arrays/Lab031.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02052024_Arrays/Lab031.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,10 +70,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ATB6x.executor": "Run",
+    "Application.Calculator_Using_Functions.executor": "Run",
     "Application.HW01.executor": "Run",
     "Application.HW02.executor": "Run",
     "Application.HW03.executor": "Run",
     "Application.HW04.executor": "Run",
+    "Application.HW05.executor": "Run",
     "Application.HW1.executor": "Run",
     "Application.HW2.executor": "Run",
     "Application.HW3.executor": "Run",
@@ -129,6 +109,13 @@
     "Application.Lab030.executor": "Run",
     "Application.Lab031.executor": "Run",
     "Application.Lab032.executor": "Run",
+    "Application.Lab033.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab035.executor": "Run",
+    "Application.Lab036.executor": "Run",
+    "Application.Lab037.executor": "Run",
+    "Application.Lab038.executor": "Run",
+    "Application.Lab039.executor": "Run",
     "Application.Swapping2numbers.executor": "Run",
     "Application.lab002.executor": "Run",
     "Application.lab003.executor": "Run",
@@ -139,7 +126,9 @@
     "Application.lab008Ternary.executor": "Run",
     "Application.lab009.executor": "Run",
     "Application.lab010_if_else.executor": "Run",
+    "Application.palindrome.executor": "Run",
     "Application.reverse_String.executor": "Run",
+    "Application.runnerStudent.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -148,13 +137,13 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HW04">
-    <configuration name="HW01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02052024_Arrays.HW01" />
+  <component name="RunManager" selected="Application.Lab036">
+    <configuration name="ATB6x" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11052024_Object_Class.ATB6x" />
       <module name="Java Programme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02052024_Arrays.*" />
+          <option name="PATTERN" value="ex_11052024_Object_Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02052024_Arrays.HW02" />
+    <configuration name="Calculator_Using_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07052024_Functions.Calculator_Using_Functions" />
       <module name="Java Programme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02052024_Arrays.*" />
+          <option name="PATTERN" value="ex_07052024_Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02052024_Arrays.HW03" />
+    <configuration name="Lab036" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14052024_Consturctor.Lab036" />
       <module name="Java Programme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02052024_Arrays.*" />
+          <option name="PATTERN" value="ex_14052024_Consturctor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02052024_Arrays.HW04" />
+    <configuration name="Lab039" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07052024_Functions.Lab039" />
       <module name="Java Programme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02052024_Arrays.*" />
+          <option name="PATTERN" value="ex_07052024_Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,13 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02052024_Arrays.Lab032" />
+    <configuration name="runnerStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11052024_Object_Class.runnerStudent" />
       <module name="Java Programme" />
-      <option name="PROGRAM_PARAMETERS" value="0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02052024_Arrays.*" />
+          <option name="PATTERN" value="ex_11052024_Object_Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,19 +204,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HW01" />
-      <item itemvalue="Application.HW02" />
-      <item itemvalue="Application.HW03" />
-      <item itemvalue="Application.HW04" />
-      <item itemvalue="Application.Lab032" />
+      <item itemvalue="Application.ATB6x" />
+      <item itemvalue="Application.runnerStudent" />
+      <item itemvalue="Application.Calculator_Using_Functions" />
+      <item itemvalue="Application.Lab036" />
+      <item itemvalue="Application.Lab039" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HW04" />
-        <item itemvalue="Application.HW03" />
-        <item itemvalue="Application.HW02" />
-        <item itemvalue="Application.HW01" />
-        <item itemvalue="Application.Lab032" />
+        <item itemvalue="Application.Lab036" />
+        <item itemvalue="Application.ATB6x" />
+        <item itemvalue="Application.runnerStudent" />
+        <item itemvalue="Application.Calculator_Using_Functions" />
+        <item itemvalue="Application.Lab039" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761884866984</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="12-11">
+      <option name="closed" value="true" />
+      <created>1762961233390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762961233390</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,7 +269,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="31-10" />
-    <option name="LAST_COMMIT_MESSAGE" value="31-10" />
+    <MESSAGE value="12-11" />
+    <option name="LAST_COMMIT_MESSAGE" value="12-11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
