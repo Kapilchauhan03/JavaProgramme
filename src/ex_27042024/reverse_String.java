@@ -3,8 +3,8 @@ package ex_27042024;
 public class reverse_String {
     public static void main(String[] args) {
 
-        // Using String Buffer
-        String str = "ABCDE"; // 0,1,2,3
+
+        String str = "ABCD"; // 0,1,2,3
         String rev = "";
 
         int len = str.length(); //4,3,2,1
@@ -14,9 +14,9 @@ public class reverse_String {
         }
         System.out.println("Reversed String is "+ rev);
 
-//
-//        StringBuffer SB = new StringBuffer(str);
-//        System.out.println(SB.reverse());
+        // Using String Buffer
+        // StringBuffer SB = new StringBuffer(str);
+        // System.out.println(SB.reverse());
 
     }
 }

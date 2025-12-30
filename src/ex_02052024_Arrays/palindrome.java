@@ -9,6 +9,7 @@ public class palindrome {
 //        stringBuffer.reverse();
 //        System.out.println(stringBuffer);
 
+        // read same forward & backward
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a string, I will check if it's palindrome or not  ");
         String user_input = sc.next();

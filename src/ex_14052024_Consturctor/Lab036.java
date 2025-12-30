@@ -15,6 +15,11 @@ public class Lab036 {
         System.out.println(Akki.name);
         System.out.println(Akki.phone);
 
+        ATBPerson ladoo = new ATBPerson("Vedansh",9058690987l);
+        System.out.println(ladoo.courseName);
+        System.out.println(ladoo.phone);
+        System.out.println(ladoo.name);
+
     }
 
 }
