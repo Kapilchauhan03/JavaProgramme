@@ -5,10 +5,19 @@ public class Lab036 {
 
         // Functions
         // Here we are return something from
-        saysomething(); // Here saysomething calling function outside the main method
-        System.out.println("End");
+
+        for (int i = 0; i <=5; i++) {
+            saysomething(); // Here saysomething calling function outside the main method
+            //System.out.println("End");
+            //kapil();
+        }
     }
-    static void saysomething (){
+
+    static void kapil() {
+        System.out.println("HiKC");
+    }
+
+    static void saysomething (){ // defining it
         System.out.println("Hello, How are you");
     }
 }

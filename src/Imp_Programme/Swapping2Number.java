@@ -12,7 +12,5 @@ public class Swapping2Number {
         b = t;
         System.out.println("After Swapping the value: " +a+ " " +b);
 
-
-
     }
 }
